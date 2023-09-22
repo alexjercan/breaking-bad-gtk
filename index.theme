@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Breaking Bad
+Comment=Breaking Bad Theme
+Type=X-GNOME-Metatheme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Breaking Bad
+GtkTheme=breaking-bad
+MetacityTheme=breaking-bad
+IconTheme=Reversal-green-dark
+CursorTheme=Adwaita
+CursorSize=24
+ButtonLayout=:minimize,maximize,close
